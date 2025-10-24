@@ -12,3 +12,7 @@
 [Каршеринг](https://github.com/Hioka3/carshering) 11.10.2025 Ильина Ксения <br>
 [Рекламный сайт](https://github.com/Hioka3/coffim-sales-website) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
 [Кулинарный блог](https://github.com/Hioka3/culinary-blog) 20.10.2025 Ильина Ксения, Медведев Семён, Шайтанов Максим <br>
+
+[Книжная полка](https://github.com/FaraPIMP/bookshelf) [Справочник по доте](https://github.com/FaraPIMP/dota2-handbook) 27.09 Дедюхин Денис, Воробьев Рома, Марк Неъматов
+[Счетчик кликов](https://github.com/FaraPIMP/clicker) 11.10 Дедюхин Денис
+[Викторина одним вопросом](https://github.com/FaraPIMP/One-question) 11.10 Дедюхин Денис
