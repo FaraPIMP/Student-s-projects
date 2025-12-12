@@ -8,4 +8,4 @@
 
 ## Репозиторий проекта
 [Банк симулятор](https://github.com/Delta200513/Bank_Simulator)
-[Прогноз погоды]()
+[Прогноз погоды](https://github.com/Delta200513/WeatherApp)
